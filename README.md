@@ -12,6 +12,8 @@ In this case study I will be exploring some basic statistical concepts, adapted 
 NumPy, Pandas, and Matplotlib, Scipy, Sklearn, Seaborn, and Statsmodels
 
 ## Case Study Involved
+* Conditional Mean
+* Least Squares
 * Linear Regression Models
 * Prediction using Linear Regression
 * Train/Test Splits
